@@ -1,7 +1,7 @@
 # i18nize
 This is a simple *javascript* Client that integrates with the localization service www.i18nize.com
 
-```npm install i18nize```
+```npm install i18nize --save-dev```
 
 
 ### Config parameters
