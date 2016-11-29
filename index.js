@@ -80,4 +80,4 @@ function Client(projectId, destinationDir, live) {
     this.getAllLocales = getAllLocales;
 }
 
-module.export = Client;
+module.exports = Client;
