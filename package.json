@@ -1,0 +1,27 @@
+{
+  "name": "i18nize",
+  "version": "1.0.0",
+  "description": "This is a simple Client that integrates with the localization service www.i18nize.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iktw/i18nize-javascript.git"
+  },
+  "keywords": [
+    "i18n",
+    "localization",
+    "translations",
+    "messages",
+    "i18nize",
+    "locale"
+  ],
+  "author": "Mohammed Hammoud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iktw/i18nize-javascript/issues"
+  },
+  "homepage": "https://github.com/iktw/i18nize-javascript#readme"
+}
