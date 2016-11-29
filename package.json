@@ -1,6 +1,6 @@
 {
   "name": "i18nize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple Client that integrates with the localization service www.i18nize.com",
   "main": "index.js",
   "scripts": {
